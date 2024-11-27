@@ -1,4 +1,4 @@
-# js-text-based-game
+# Artemis13
 A text based game about astronaut survival on the moon
 
 
