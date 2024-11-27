@@ -1,2 +1,5 @@
 # js-text-based-game
-A text based game created with html, css and javascript
+A text based game about astronaut survival on the moon
+
+
+* Created with html, css and javascript
