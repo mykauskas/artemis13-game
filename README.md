@@ -1,5 +1,3 @@
-# praktika2019-mikelandzello
-
 Text based game
 
 
